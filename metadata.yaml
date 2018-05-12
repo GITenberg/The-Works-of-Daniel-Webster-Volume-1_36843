@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2512
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36843#The-Works-of-Daniel-Webster-Volume-1
 gutenberg_issued: '2011-07-25'
 gutenberg_type: Text
 identifiers:
